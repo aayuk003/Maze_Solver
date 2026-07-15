@@ -120,25 +120,7 @@ Micromouse-Maze-Solver/
 - Encoder Odometry
 - Wall Detection
 - Motion Planning
-
 ---
-
-## 📷 Project Images
-
-### CAD Design
-
-(Add CAD render here)
-
-### PCB
-
-(Add PCB Image)
-
-### Robot
-
-(Add Robot Photo)
-
----
-
 ## 📈 Future Improvements
 
 - SLAM
